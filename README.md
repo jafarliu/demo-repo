@@ -4,7 +4,6 @@
 # demo-repo
 vnkfnkngfd
 fdf
-<<<<<<< HEAD
 ffdf
 
 
@@ -12,8 +11,4 @@ ffdf
 
 
 1. Open index.html in your browser. 
-=======
-c
-c
-ccdff
->>>>>>> master
+2. remove 
